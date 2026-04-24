@@ -1,0 +1,201 @@
+player_id,player_name,position,team_id,region_id,birth_date,height_cm,weight_kg,jersey_number,years_experience,salary_usd,is_active,nationality,draft_year,draft_round,college
+1,Karl Taylor,SG,4,5,09/12/1985,181,118,94,17,6334366,0,American,2000,1,UCLA
+2,Anthony Gonzalez,C,8,4,01/10/2001,201,89,57,18,19169062,1,Greek,2022,2,Michigan
+3,Paul Davis,PG,9,7,25/04/1989,199,81,45,11,41015368,1,American,2023,2,Texas
+4,Donovan Perez,C,4,5,18/02/1997,198,111,24,2,3575222,1,Cameroonian,2002,1,Duke
+5,Jimmy Martinez,SF,13,4,21/08/1993,197,88,85,8,43988918,1,Spanish,2020,1,Texas
+6,Tyler Phillips,C,8,4,13/08/1990,189,118,41,1,15871155,1,Canadian,2012,1,Duke
+7,OG Clark,PF,7,9,21/04/1995,184,91,17,7,38172777,1,Spanish,2013,2,Michigan
+8,Nikola Carter,PG,8,4,16/09/1989,182,84,80,5,28830675,1,Australian,2012,2,Texas
+9,Jayson Baker,C,9,7,22/01/2002,192,124,82,10,7986139,1,Australian,2005,2,Kentucky
+10,Joel Roberts,SF,9,7,17/03/2001,215,107,77,6,10756869,1,Greek,2017,1,UConn
+11,Jimmy Turner,SF,11,9,04/01/2000,190,78,30,18,5785296,1,French,2002,1,Kansas
+12,Klay Jackson,C,16,10,09/03/2002,219,87,91,9,27275919,1,French,2016,2,Duke
+13,LeBron Hill,C,8,4,11/02/1992,189,112,28,0,5264265,1,Slovenian,2002,1,Michigan
+14,OG Jackson,C,3,3,09/04/2001,183,121,73,18,32220415,1,French,2013,1,Duke
+15,Draymond Robinson,PG,4,5,14/06/1998,218,116,82,3,4567647,0,Canadian,2003,1,UCLA
+16,Klay Martinez,SF,7,9,05/08/2002,204,90,9,14,37431706,1,American,2020,1,Duke
+17,Marcus Jackson,PF,8,4,16/07/1990,178,85,48,0,26700760,1,French,2009,2,Texas
+18,Ja Williams,C,16,10,10/04/1989,209,78,95,10,4336296,1,Spanish,2015,1,Kentucky
+19,Giannis Baker,SG,17,2,03/03/1987,200,82,72,7,39350600,1,Spanish,2002,2,UConn
+20,Ja Baker,SF,19,7,09/06/2001,190,91,50,4,43818824,1,French,2010,1,Kentucky
+21,Ja Young,SF,15,2,18/02/1988,183,97,8,7,25298543,1,Greek,2014,1,UConn
+22,Khris Phillips,PG,17,2,27/11/1985,183,91,14,3,37626210,1,Cameroonian,2009,1,Michigan
+23,Bam Turner,PG,7,9,16/09/1993,180,115,54,8,3458612,1,Canadian,2004,1,Kansas
+24,James Davis,PG,15,2,14/12/2002,219,84,69,1,25277665,1,Australian,2004,1,North Carolina
+25,Karl Baker,PG,12,3,07/06/1986,197,124,71,13,42151888,1,Slovenian,2005,1,Gonzaga
+26,Draymond Mitchell,SG,1,5,11/12/1990,192,85,89,3,26171940,1,French,2007,1,Undrafted
+27,LeBron Baker,SG,12,3,08/04/1994,200,96,35,2,19231761,1,Nigerian,2012,1,Kentucky
+28,Bam Williams,PG,4,5,19/03/1993,213,102,44,10,29785897,1,Australian,2018,1,North Carolina
+29,Anthony Harris,PF,2,1,17/01/1998,179,117,42,10,8863463,1,Nigerian,2009,2,Michigan
+30,Anthony Lewis,PF,13,4,05/09/1994,218,122,22,18,20696404,0,Nigerian,2000,1,North Carolina
+31,Chris Robinson,PF,7,9,20/10/1998,203,118,27,16,32254987,1,Serbian,2009,1,Duke
+32,Anthony Wilson,PG,8,4,26/04/1994,177,90,60,2,31062461,0,Spanish,2006,2,Undrafted
+33,James Turner,PG,13,4,21/03/1992,202,89,22,16,31675415,1,Nigerian,2007,1,Undrafted
+34,Chris Carter,PF,5,2,17/11/1999,214,127,92,16,29138087,0,Greek,2023,2,Undrafted
+35,OG Adams,SG,9,7,09/11/1992,192,103,9,9,16236597,1,Canadian,2010,1,Kansas
+36,Luka Gonzalez,SG,5,2,23/07/1992,179,101,52,10,36914017,0,Australian,2001,1,Gonzaga
+37,Marcus Johnson,SF,13,4,13/10/1985,194,123,49,13,36619370,1,French,2007,1,Gonzaga
+38,Kyle Nelson,SG,16,10,11/07/1985,204,83,79,17,2309687,0,Spanish,2018,1,Duke
+39,Stephen Anderson,PF,14,9,06/08/1989,195,88,58,10,23149278,0,Cameroonian,2013,1,Duke
+40,Stephen Harris,SG,16,10,18/12/1985,216,79,99,1,2582387,1,Slovenian,2000,1,UCLA
+41,Ja Robinson,SF,5,2,04/11/2000,198,85,77,3,11490137,1,Serbian,2018,1,North Carolina
+42,Anthony Brown,C,19,7,23/07/1997,219,128,80,7,7338480,1,Spanish,2003,1,Michigan
+43,Giannis Young,SF,18,4,12/11/1998,175,129,53,15,7582593,0,Canadian,2020,2,Kansas
+44,Tyler Scott,C,14,9,17/12/1990,205,104,55,18,18511719,1,Slovenian,2002,1,Undrafted
+45,Bradley Lee,PG,8,4,20/10/1999,206,129,41,5,33218922,1,Canadian,2008,1,North Carolina
+46,Anthony Brown,SG,20,6,01/09/1993,201,106,71,7,32450067,0,French,2000,1,North Carolina
+47,Khris Baker,C,8,4,08/12/1997,198,105,70,16,23569168,0,Nigerian,2010,1,Undrafted
+48,Jayson Nelson,SG,9,7,08/05/1994,195,82,95,17,12925195,1,Slovenian,2023,2,North Carolina
+49,Joel Perez,SG,19,7,10/10/2001,193,89,46,5,20784834,1,Nigerian,2004,1,Kentucky
+50,Damian Adams,PF,2,1,23/05/2002,181,130,1,18,19581689,0,French,2014,1,Kansas
+51,Giannis Clark,PF,2,1,04/08/1993,179,111,80,1,10682227,1,Spanish,2009,1,UCLA
+52,Devin Carter,C,4,5,20/07/2002,199,103,56,9,39995253,0,Cameroonian,2018,1,UConn
+53,Bam Baker,PG,4,5,07/11/1991,185,90,22,17,5537518,1,American,2013,2,UConn
+54,Donovan Gonzalez,SF,16,10,08/01/1994,219,130,58,2,16164806,1,Spanish,2021,1,Gonzaga
+55,Luka Phillips,SF,4,5,21/04/2002,184,79,7,5,21143479,1,French,2003,2,North Carolina
+56,OG Robinson,PG,13,4,18/09/1993,213,77,55,10,41014536,1,American,2002,1,UConn
+57,Tyler Hill,PG,19,7,27/11/1985,186,105,66,14,19166771,1,Spanish,2013,2,Duke
+58,Chris Baker,PG,16,10,11/07/1996,185,96,52,15,19841968,0,Nigerian,2001,2,Duke
+59,Kyle Roberts,C,11,9,04/06/1993,175,117,69,14,28232575,1,Slovenian,2016,1,UConn
+60,Tyler Allen,SG,16,10,07/01/1999,193,103,89,15,8648766,1,Spanish,2007,1,North Carolina
+61,Nikola Taylor,PG,18,4,14/09/1985,204,82,82,4,33945413,1,Nigerian,2022,1,Gonzaga
+62,Luka Clark,SG,16,10,15/04/2000,213,107,95,4,5184875,1,Australian,2010,1,Kentucky
+63,OG Roberts,SG,10,11,19/10/1994,203,109,61,11,22809667,0,French,2010,1,UCLA
+64,Draymond Williams,SF,19,7,28/04/1997,205,120,48,12,44256254,1,French,2001,1,Texas
+65,Jordan Davis,C,19,7,28/02/1995,204,75,92,4,28013199,1,Serbian,2015,1,Michigan
+66,Paul Roberts,C,20,6,03/11/1997,199,95,80,15,36806970,1,Spanish,2002,1,North Carolina
+67,Joel Robinson,SG,8,4,04/07/1987,219,94,3,1,22268415,1,Cameroonian,2011,1,Gonzaga
+68,Zion Martinez,SG,5,2,14/09/1992,180,114,48,7,33897883,1,Slovenian,2014,1,Undrafted
+69,Trae Brown,PF,9,7,10/08/1985,197,112,38,13,17283807,0,Cameroonian,2006,2,Undrafted
+70,Russell Hill,SF,4,5,19/07/1992,219,93,2,12,18920066,1,Spanish,2021,1,UConn
+71,Russell Taylor,SG,16,10,20/04/1994,214,91,86,4,42661016,1,American,2009,2,Kentucky
+72,Nikola Phillips,SF,19,7,05/12/1996,195,122,53,5,13975110,1,Nigerian,2011,1,Kansas
+73,Paul Mitchell,PG,9,7,24/05/2000,204,79,18,7,27169833,1,Serbian,2012,1,North Carolina
+74,Bam Hill,PF,18,4,12/08/1988,215,98,13,7,32140277,1,Spanish,2017,1,UConn
+75,Jaylen Phillips,SF,8,4,27/11/1987,216,101,14,4,3543172,1,Cameroonian,2015,1,Duke
+76,Jaylen Harris,C,8,4,13/03/2002,201,112,95,4,28342429,1,French,2019,2,North Carolina
+77,Jordan Taylor,SF,2,1,15/04/1996,181,118,47,17,43773594,1,American,2012,1,UCLA
+78,Ja Adams,C,4,5,22/02/1999,176,78,42,7,8950608,1,Serbian,2017,1,UConn
+79,Luka Mitchell,C,7,9,25/06/1992,175,92,18,4,36753245,1,Greek,2003,1,Kansas
+80,Chris Johnson,SG,1,5,19/04/1996,191,78,16,13,35805002,1,Serbian,2015,2,Michigan
+81,Devin Scott,PG,17,2,17/08/1988,217,108,38,14,43673862,1,American,2015,2,Gonzaga
+82,Giannis Turner,PG,4,5,15/12/2000,195,113,18,2,8968574,1,Spanish,2020,1,Gonzaga
+83,Klay Davis,PG,20,6,15/05/2001,216,116,98,17,14929953,0,French,2007,2,Michigan
+84,Joel Lee,PF,15,2,24/07/1997,195,117,32,11,10743424,0,Serbian,2002,1,Duke
+85,Jimmy Mitchell,SG,14,9,24/12/1988,210,78,75,17,38193933,1,Serbian,2013,1,Gonzaga
+86,Russell Davis,C,2,1,10/10/1994,207,88,19,15,15548818,1,Canadian,2017,1,Duke
+87,LeBron Scott,SF,9,7,28/07/1992,176,86,34,9,23305246,1,American,2005,1,UConn
+88,LeBron Brown,C,13,4,24/03/1987,188,99,53,14,23377142,1,Canadian,2009,1,UConn
+89,Trae Carter,C,20,6,05/01/1987,178,118,10,8,30236808,0,French,2019,2,Gonzaga
+90,Russell Lewis,PG,9,7,04/09/1991,193,118,86,18,33157371,1,American,2007,2,UConn
+91,Ja Carter,SG,2,1,10/04/1985,191,93,41,3,1018745,0,Australian,2005,1,Gonzaga
+92,Russell Brown,PF,18,4,18/09/1992,177,102,2,14,5725271,1,Spanish,2013,2,Gonzaga
+93,Chris Martinez,C,10,11,01/07/1988,204,128,88,11,6414296,0,Serbian,2007,2,UConn
+94,Khris Nelson,SF,13,4,13/02/2001,189,96,99,5,5625733,1,Nigerian,2016,1,Michigan
+95,Luka Anderson,SG,12,3,04/04/1989,186,113,19,2,12388075,0,French,2018,2,UConn
+96,Luka Robinson,PG,20,6,11/11/1995,205,103,80,9,18933037,1,Canadian,2016,1,North Carolina
+97,Jimmy Perez,SF,15,2,02/01/1999,179,116,11,16,26302182,0,Spanish,2017,1,Undrafted
+98,Marcus Young,SG,19,7,20/06/1991,178,103,13,10,6159232,1,American,2007,2,Undrafted
+99,Jimmy Harris,SF,17,2,06/10/2001,199,101,99,10,40623441,1,Canadian,2002,1,Duke
+100,Luka Lee,PG,18,4,09/05/1997,212,117,18,11,21319299,0,Greek,2019,1,North Carolina
+101,Paul Perez,SG,18,4,26/11/1997,217,119,94,16,6771522,0,Nigerian,2011,1,Michigan
+102,OG Jackson,SG,10,11,11/04/1990,183,84,9,9,7287441,1,Canadian,2019,1,UConn
+103,Trae Nelson,PF,13,4,06/03/1989,177,101,46,7,30309670,1,French,2007,1,North Carolina
+104,Jordan Robinson,SF,16,10,22/06/1991,199,107,67,13,11375539,1,Spanish,2004,1,Kentucky
+105,Jayson Thomas,PG,16,10,04/09/1996,185,92,57,16,10388400,0,Serbian,2007,2,Michigan
+106,Jimmy Taylor,PF,1,5,13/01/1998,180,98,28,0,21886579,1,Canadian,2004,1,Kentucky
+107,Damian Carter,PF,10,11,27/12/2000,203,114,0,2,1775329,1,Slovenian,2004,2,Duke
+108,Stephen Taylor,PF,10,11,04/05/1992,215,125,79,14,4714916,1,French,2019,1,Texas
+109,Donovan Lewis,PG,19,7,05/12/1992,214,97,30,18,28455378,1,Serbian,2016,1,Duke
+110,LeBron Clark,PF,17,2,26/09/2002,177,115,49,11,17522180,1,Canadian,2002,1,UCLA
+111,Russell Allen,SF,4,5,02/03/1995,216,86,99,14,32613683,1,Greek,2002,2,Kentucky
+112,Anthony Turner,PG,10,11,26/01/1991,195,94,65,12,36942173,0,Cameroonian,2001,1,North Carolina
+113,Tyler Davis,SF,12,3,11/11/1986,202,100,95,14,26447291,1,Greek,2015,2,Michigan
+114,Klay Brown,PF,17,2,24/02/1993,213,127,23,17,20214330,1,Serbian,2002,1,North Carolina
+115,Klay Martinez,PF,10,11,23/10/1999,197,103,5,11,41761984,0,Cameroonian,2020,1,Duke
+116,Trae Johnson,SG,13,4,26/09/1996,213,118,56,1,8971153,1,Slovenian,2020,1,Michigan
+117,Jordan Harris,SF,13,4,05/10/1986,203,123,9,18,9740562,1,Australian,2010,1,UCLA
+118,OG Young,PF,4,5,06/12/1985,210,82,33,8,30448881,1,Spanish,2009,2,UCLA
+119,Zion Turner,PF,4,5,15/02/1989,180,126,87,10,23815316,1,Nigerian,2017,1,North Carolina
+120,Devin Davis,SG,6,4,17/06/1990,183,90,63,0,24719355,1,French,2017,1,UConn
+121,Marcus Young,PF,3,3,13/05/1987,201,127,73,2,8910537,1,Serbian,2014,2,Texas
+122,Zion Carter,SG,12,3,21/09/1989,202,107,7,3,35269245,1,Cameroonian,2005,1,Michigan
+123,Nikola Anderson,SG,8,4,10/09/1996,215,110,35,4,42444540,1,Spanish,2017,1,Texas
+124,Paul Perez,C,6,4,22/03/1989,177,127,3,2,3550889,1,Slovenian,2018,2,UConn
+125,Donovan Adams,SF,1,5,18/11/2000,205,90,87,12,20460449,0,Serbian,2022,1,Kansas
+126,Ja Lee,C,15,2,15/08/1998,184,95,91,10,23677425,0,Greek,2011,1,Michigan
+127,Jordan Taylor,SG,8,4,09/02/1999,181,78,37,12,41797281,0,Slovenian,2005,1,UConn
+128,Jaylen Walker,SF,11,9,16/03/1991,206,76,11,12,34419803,0,Slovenian,2006,1,Kentucky
+129,Marcus Thomas,C,2,1,20/08/1994,175,129,13,13,9488221,1,Canadian,2012,1,Kentucky
+130,Anthony Harris,C,13,4,18/10/1986,193,79,49,16,30722770,1,Spanish,2021,1,Kansas
+131,Paul Allen,SF,4,5,26/06/1997,184,87,77,16,27436631,1,American,2001,1,Michigan
+132,Damian Lee,C,16,10,05/08/2001,195,85,50,9,40344187,1,Nigerian,2016,2,UConn
+133,Paul Baker,PG,10,11,12/01/2000,201,112,39,0,40557926,0,Cameroonian,2020,1,Kentucky
+134,Bradley Wilson,SG,19,7,17/03/2000,177,111,89,3,13303319,1,French,2010,2,Kansas
+135,Marcus Roberts,PG,14,9,17/07/1991,220,83,66,6,38140474,1,French,2016,2,Michigan
+136,Russell Baker,SF,6,4,11/09/1999,214,105,24,7,19223802,1,Slovenian,2009,1,UCLA
+137,Tyler Thomas,PG,16,10,12/08/1995,211,118,69,12,26976624,1,Greek,2009,1,North Carolina
+138,Bam Nelson,PF,3,3,21/08/1996,188,87,68,8,38216390,1,Greek,2003,1,UCLA
+139,Devin Williams,PG,2,1,21/04/2001,201,96,91,15,7247454,1,American,2017,1,Gonzaga
+140,Donovan Lee,SF,16,10,07/11/2000,216,78,98,2,44275026,1,Nigerian,2023,1,Kansas
+141,Kyle Mitchell,PF,14,9,27/01/1990,186,122,37,1,1121909,1,Spanish,2019,1,Michigan
+142,OG Turner,SG,10,11,18/11/1999,207,104,34,6,8059596,1,Greek,2023,2,North Carolina
+143,Donovan Hill,SG,6,4,11/12/1985,186,114,81,12,29202679,1,Serbian,2012,1,Kansas
+144,James Anderson,PF,5,2,08/06/2000,190,103,96,8,22620779,1,Spanish,2023,1,North Carolina
+145,Jayson Robinson,SF,12,3,22/01/1992,185,100,87,16,21369376,1,Cameroonian,2011,1,UCLA
+146,Jimmy Lewis,C,5,2,15/03/2000,205,123,68,6,17107123,1,Nigerian,2014,1,Duke
+147,Anthony Hill,C,19,7,27/01/1988,184,85,41,16,30151417,1,Slovenian,2022,2,Duke
+148,Damian Young,PF,17,2,15/01/1999,204,111,7,17,31529682,1,American,2012,1,Kentucky
+149,Russell Gonzalez,PG,7,9,14/01/1987,209,78,8,15,2629691,1,Australian,2005,1,Gonzaga
+150,Bradley Clark,PG,12,3,28/08/1997,218,117,69,4,44357930,1,Serbian,2005,2,Texas
+151,LeBron Thomas,PF,5,2,25/01/1992,218,121,69,13,36197460,0,Slovenian,2007,2,Michigan
+152,Jayson Williams,PF,5,2,24/04/1993,214,124,2,7,14329903,1,Serbian,2019,1,Undrafted
+153,Kevin Clark,PF,20,6,24/04/1986,189,109,27,1,9904339,1,Slovenian,2023,1,UConn
+154,Luka Baker,C,20,6,10/04/1995,189,101,38,8,4590797,1,Australian,2017,2,Kentucky
+155,Draymond Lewis,SG,12,3,11/09/1997,194,99,23,17,32277310,1,Slovenian,2009,1,Undrafted
+156,Damian Clark,SG,2,1,14/07/2002,191,88,42,2,30684682,1,Serbian,2017,1,Kentucky
+157,Kevin Roberts,PG,9,7,20/11/1997,187,126,97,18,38003820,1,French,2006,1,North Carolina
+158,Jayson Nelson,PF,1,5,24/04/1991,190,119,77,6,27117526,1,Nigerian,2010,1,Gonzaga
+159,Khris Anderson,SF,15,2,12/11/2002,207,106,59,3,32006968,1,Slovenian,2011,1,Gonzaga
+160,LeBron Anderson,C,2,1,05/12/1992,212,112,92,13,20310019,1,Slovenian,2010,1,Gonzaga
+161,Paul Anderson,PF,19,7,18/08/1992,216,122,62,14,11789968,1,Greek,2004,2,Kansas
+162,Giannis Perez,PG,18,4,02/09/1986,175,101,17,7,5061251,1,American,2006,2,Michigan
+163,LeBron Johnson,C,2,1,16/11/2000,210,101,1,0,36028616,1,Nigerian,2009,1,Texas
+164,Luka Taylor,SG,14,9,04/02/1990,214,108,32,11,18439859,0,Serbian,2011,2,Undrafted
+165,Khris Baker,PG,19,7,08/12/1992,216,129,83,1,6774712,0,Australian,2012,2,Kentucky
+166,Klay Adams,SF,1,5,16/02/1990,211,129,12,16,3355600,1,Slovenian,2022,2,North Carolina
+167,Kevin Martinez,SF,2,1,09/11/1987,176,88,75,4,27229193,1,Cameroonian,2005,1,UConn
+168,Damian Mitchell,PG,13,4,13/06/2002,207,122,44,1,7055582,0,Slovenian,2002,1,UConn
+169,Tyler Mitchell,PF,20,6,01/06/1997,206,89,45,17,25694479,0,Greek,2021,2,Duke
+170,Giannis Brown,SF,20,6,23/04/1994,184,99,91,4,26647088,1,Canadian,2003,1,Kentucky
+171,Tyler Davis,SG,10,11,25/06/1999,180,86,55,14,37878632,0,Serbian,2000,1,Michigan
+172,Chris Roberts,PF,18,4,20/10/1987,175,93,52,12,6184088,1,Spanish,2016,1,Gonzaga
+173,Tyler Walker,SG,6,4,10/05/1989,179,85,55,8,28759699,1,French,2002,1,North Carolina
+174,Anthony Robinson,PG,8,4,20/10/2000,183,94,0,12,22794719,0,Canadian,2014,1,Gonzaga
+175,Anthony Walker,SF,20,6,11/05/1989,186,100,40,9,42973365,0,Spanish,2007,1,Gonzaga
+176,Anthony Hill,C,9,7,04/06/1997,186,118,98,17,2306309,0,Slovenian,2014,1,Duke
+177,Khris Taylor,SF,14,9,21/03/2000,217,84,91,13,25799425,1,French,2019,2,UConn
+178,Draymond Allen,PG,13,4,28/09/2002,198,119,68,2,7839657,1,Canadian,2005,1,UConn
+179,James Davis,SF,13,4,04/07/1995,189,107,95,16,37946304,1,French,2011,2,Undrafted
+180,LeBron Walker,PG,19,7,12/03/2001,193,101,10,3,10007660,1,Cameroonian,2010,2,UCLA
+181,Joel Robinson,PF,17,2,16/06/2000,195,79,38,1,8223241,1,Canadian,2020,1,Kansas
+182,Trae Lee,C,8,4,18/03/2001,202,104,29,12,42762499,1,Greek,2020,2,Gonzaga
+183,Klay Clark,PG,1,5,19/08/1991,220,88,26,8,4698582,1,Nigerian,2005,1,Michigan
+184,OG Young,SF,7,9,09/02/1999,213,99,78,12,39893219,1,Canadian,2011,2,UConn
+185,Nikola Baker,SG,6,4,19/10/1994,195,82,30,9,8348308,1,Canadian,2022,1,Texas
+186,Bradley Lewis,SG,13,4,05/10/1998,206,115,68,5,37739552,1,French,2009,1,Kansas
+187,Russell Johnson,PF,11,9,02/10/1999,183,87,49,17,34419371,0,Australian,2021,2,Gonzaga
+188,LeBron Mitchell,SG,15,2,03/03/2000,193,77,35,7,36578303,1,Greek,2014,2,Texas
+189,Tyler Carter,C,17,2,04/10/1988,198,109,96,1,30119609,1,Australian,2003,1,North Carolina
+190,Nikola Robinson,PG,2,1,12/05/1999,190,88,94,18,24030437,0,Greek,2019,1,UCLA
+191,Tyler Scott,C,7,9,12/10/1986,185,95,90,9,19916825,1,Nigerian,2021,1,Kansas
+192,Damian Gonzalez,SG,14,9,28/05/1986,190,84,91,10,17113117,0,French,2004,1,Gonzaga
+193,Nikola Clark,C,13,4,21/02/1999,192,119,47,14,33252110,1,Spanish,2000,1,Undrafted
+194,Ja Lewis,SG,12,3,13/09/1987,206,92,41,9,23166364,1,Spanish,2015,1,Kentucky
+195,Jaylen Johnson,PG,2,1,26/11/1988,185,103,58,0,29209125,1,Greek,2020,1,Kansas
+196,Bam Brown,SF,9,7,12/11/1987,217,116,21,1,27098032,1,Slovenian,2013,1,Duke
+197,Damian Hill,SG,1,5,03/08/1991,208,118,56,0,1041069,1,Serbian,2013,1,Undrafted
+198,Joel Davis,SF,3,3,03/07/1992,198,94,17,12,9435292,1,Serbian,2016,1,UConn
+199,Ja Adams,SG,6,4,24/06/1999,201,114,87,14,15079043,1,Serbian,2004,1,UConn
+200,Damian Taylor,SF,13,4,11/07/1996,216,80,31,17,40832364,1,American,2021,1,UCLA

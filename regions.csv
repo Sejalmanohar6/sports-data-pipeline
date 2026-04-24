@@ -1,0 +1,16 @@
+region_id,region_name,country,major_city,notes
+1,Northeast,USA,Boston,"Cold winters, strong basketball culture"
+2,Southeast,USA,Atlanta,"Warm climate, fast-growing fan base"
+3,Midwest,USA,Chicago,"Heartland, strong college programs"
+4,Southwest,USA,Dallas,"Dry heat, modern arenas"
+5,Pacific,USA,Los Angeles,"Entertainment capital, high-profile games"
+6,Northwest,USA,Seattle,"Passionate fan bases, rainy climate"
+7,Mountain,USA,Denver,High altitude affects player stamina
+8,Great Plains,USA,Kansas City,Emerging basketball market
+9,Mid-Atlantic,USA,Philadelphia,Intense rivalry culture
+10,South Central,USA,Houston,"Diverse, rapidly growing market"
+11,Ontario,Canada,Toronto,Only Canadian NBA franchise market
+12,Quebec,Canada,Montreal,"French-speaking, growing basketball interest"
+13,Western Europe,Europe,Madrid,Strong EuroLeague tradition and talent
+14,Eastern Europe,Europe,Belgrade,Produces elite international players
+15,Asia-Pacific,Asia,Shanghai,"Massive viewership, growing participation"
